@@ -1,0 +1,40 @@
+1-install all dependencies ===>>>(
+
+bootstrap => npm install bootstrap, 
+fontawesome => npm install @fortawesome/fontawesome-free, 
+react-router-app => npm install react-router-dom,   
+axios => npm install axios, 
+joi => npm install joi ,
+icons => npm install react-icons,
+email => npm install emailjs-com
+)
+
+2-create all components from design
+
+3- run and check
+
+4-apply all shared styles => index.css
+
+5-routing
+
+6-work on components itself
+
+
+
+
+
+https://threejs.org/manual/examples/resources/images/equirectangularmaps/tears_of_steel_bridge_2k.jpg
+
+https://cdn.jsdelivr.net/npm/three@0.118/build/three.module.js
+
+https://threejs.org/examples/js/controls/OrbitControls.js
+
+
+
+
+
+
+
+
+
+
